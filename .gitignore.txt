@@ -1,6 +1,14 @@
-.idea
+
 *.iml
 out
 gen
-target
+/target/
 *.jarv
+
+
+
+*.log
+
+*.db
+
+.idea/
